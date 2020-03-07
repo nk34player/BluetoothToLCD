@@ -1,6 +1,8 @@
 # BluetoothToLCD
-- Q:What isBluetoothToLCD? 
-Very simple application that can change the text on your android mobile to text on the LCD	
+- Q:What isBluetoothToLCD?
+<br>
+Very simple application that can change the text on your android mobile to text on the LCD
+<br>
 - Q:What can use it on?
 
 I made it with arduino uno
