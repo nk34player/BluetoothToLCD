@@ -13,5 +13,6 @@ worked perfectly on 1.8 TFT Display RGB 160x128, also i recommend to be RGB one
 Q:What Bluetooth moudle you used? 	
 
 I used HC-06
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 
